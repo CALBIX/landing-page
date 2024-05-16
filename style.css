@@ -33,10 +33,20 @@ a {
     color: #f9faf8;
 }
 
+.right-links {
+    display: flex;
+    gap: 18px;
+}
+
 #main-hero-text {
     font-size: 48px;
     font-weight: bold;
     color: #f9faf8;
+    margin: 0px 30vh 0px 0px;
+}
+
+#secondary-hero-text {
+    margin: 12px 40vh 12px 0px;
 }
 
 #secondary-hero-text,
@@ -50,8 +60,10 @@ a {
 }
 
 .button-one {
-    background-color: #3882f6;
+    font-size: 18px;
     color: #f9faf8;
-    padding: 6px 18px;
+    background-color: #3882f6;
+    padding: 8px 36px;
     border-radius: 8px;
+    border: none;
 }
