@@ -127,3 +127,50 @@ a {
     color: #1f2937;
     margin: 0px;
 }
+
+.section-four {
+    padding: 80px 280px;
+}
+
+.section-four-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882f6;
+    border-radius: 8px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    gap: 80px;
+}
+
+#call-to-action,
+#subtext {
+    margin: 0px;
+}
+
+#call-to-action {
+    color: white;
+    font-weight: bold;
+}
+
+#subtext {
+    color: white;
+}
+
+.button-two {
+    color: #f9faf8;
+    background-color: #3882f6;
+    border-color: white;
+    padding: 8px 24px;
+    border-radius: 8px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: #1f2937;
+    padding: 16px;
+}
