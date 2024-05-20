@@ -42,12 +42,12 @@ a {
     font-size: 48px;
     font-weight: bold;
     color: #f9faf8;
-    /* margin: 0px 280px 0px 0px; */
+    margin: 0px 280px 0px 0px;
 }
 
-/* #secondary-hero-text {
+#secondary-hero-text {
     margin: 12px 400px 12px 0px;
-} */
+}
 
 #secondary-hero-text,
 .header-link-text {
@@ -129,7 +129,7 @@ a {
 }
 
 .section-four {
-    padding: 80px 280px;
+    padding: 80px 520px;
 }
 
 .section-four-container {
